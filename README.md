@@ -1,2 +1,2 @@
 # Hissiohjelmisto
-Olioparadigman opettelua vuonna nakki ja muusi
+Olioparadigman opettelua vuodelta nakki ja muusi
